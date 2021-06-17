@@ -1,6 +1,6 @@
 //Conceito de Função - declarar função 
 //criei a função finalizarChat e coloquei a chamada api dentro
-//funções podem receber parâmetros, que é o que está entre parênteses, neste caso eu tenho que receber dois parâmetros qualquer
+//funções podem receber parâmetros, que é o que está entre parênteses, neste caso eu tenho que receber dois parâmetros 
 //o nome do parâmetro pode ser qualquer um 
 //a função pode retornar alguma coisa ou retornar nada
 // as que retornem sempre tem um palavra chamada return, geralmente no final
